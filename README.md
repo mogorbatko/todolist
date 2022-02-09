@@ -1,3 +1,4 @@
+[![Build](https://github.com/mogorbatko/todolist/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/mogorbatko/todolist/actions/workflows/build.yml)
 <h1>NeoStudy.Throubleshooting lesson</h1>
 <h2>Project for learning how to use Prometheus and Grafana.</h2>
 <p>Simple controller without DB. Adding, showing and deleting tasks from list.  </p>
